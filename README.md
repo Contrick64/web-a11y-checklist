@@ -1,7 +1,9 @@
 # Web Accessibility Checklist
 This checklist is a general guideline, not a final confirmation that a given page or site is accessible. It only includes success criteria up to level AA of the WCAG recommendations, and is not 100% comprehensive. I’ve tried to break requirements into individual items to check. Testing abbr notation: a11y
+
 *[abbr]: abbreviation
 *[a11y]: accessibility
+
 Drawn from [DubBots Beginners Guide to Accessibility testing and WCAG.xlsx](https://docs.google.com/spreadsheets/d/1THhb_vt_bUoorw8YqxaqjjN7EJiI4eN-/edit#gid=1816335579)
 
 ## Perceivable
