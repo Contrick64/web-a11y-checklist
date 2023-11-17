@@ -4,9 +4,9 @@ This checklist is a general guideline, not a final confirmation that a given pag
 Drawn from [DubBots Beginners Guide to Accessibility testing and WCAG.xlsx](https://docs.google.com/spreadsheets/d/1THhb_vt_bUoorw8YqxaqjjN7EJiI4eN-/edit#gid=1816335579)
 
 ## Perceivable
-[] All images have alt text.
-[] Alt text is useful (not the same as filename, marks decorative elements, provides information rather than a visual description)
-[] All “images of text” (e.g., a certificate or award graphic) have alt text which makes the full text of the image available. Ideally, no images (other than logos) contain text which is important to understanding the image.
+[ ] All images have alt text.
+[ ] Alt text is useful (not the same as filename, marks decorative elements, provides information rather than a visual description)
+[ ] All “images of text” (e.g., a certificate or award graphic) have alt text which makes the full text of the image available. Ideally, no images (other than logos) contain text which is important to understanding the image.
 [] All audio has a transcript.
 [] All videos have a transcript.
 [] Videos have captions/subtitles with all spoken content available in text, as well as descriptions of sounds (music, laughter, applause, etc.)
